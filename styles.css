@@ -1,24 +1,36 @@
+
 body{
-    background-color: rosybrown;
-    font-family: Arial, sans-serif;
+    font-family: sans-serif;
+    background-color: #A14646;
+    padding: 10px;
+    color: white;
 }
-.business-card{
-    width: 300px;
-    padding: 20px;
-    margin-top: 100px;
-    margin-left: auto;
-    margin-right: auto;
+#caja-de-presentacion{
+    border-radius: 50px;
+    margin:auto;
     text-align: center;
     font-size: 16px;
-    background-color: pink;
+    background-color: #DA6556;
+    width: 400px;
+    height: 90%;
 }
-.profile-image{
-    max-width: 100%;
+#imagen-del-gato{
+    max-width: 90%;
 }
-p{
-    margin-top: 5px;
-    margin-bottom: 5px;
+#redes-sociales{
+    padding: 10px;
+    margin: 10px;
+}
+hr{
+    border: none;
+    width: 90%;
+    height: 2px;
+    background-color: #A14646;
 }
 a{
-    
+    color: #383838;
+}
+h1{
+    margin: auto;
+    padding: 20px;
 }
