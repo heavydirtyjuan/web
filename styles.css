@@ -1,36 +1,35 @@
-
-body{
+body {
     font-family: sans-serif;
-    background-color: #A14646;
+    background-color: #a14646;
     padding: 10px;
     color: white;
 }
-#caja-de-presentacion{
+#caja-de-presentacion {
     border-radius: 50px;
-    margin:auto;
+    margin: auto;
     text-align: center;
     font-size: 16px;
-    background-color: #DA6556;
-    width: 400px;
-    height: 90%;
+    background-color: #da6556;
+    width: 90%;
+    max-width: 400px;
 }
-#imagen-del-gato{
+#imagen-del-gato {
     max-width: 90%;
 }
-#redes-sociales{
+#redes-sociales {
     padding: 10px;
     margin: 10px;
 }
-hr{
+hr {
     border: none;
     width: 90%;
     height: 2px;
-    background-color: #A14646;
+    background-color: #a14646;
 }
-a{
+a {
     color: #383838;
 }
-h1{
+h1 {
     margin: auto;
     padding: 20px;
 }
